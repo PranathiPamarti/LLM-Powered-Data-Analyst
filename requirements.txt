@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+pandas
+numpy
+matplotlib
+python-dotenv
+Pillow
+requests
+beautifulsoup4
